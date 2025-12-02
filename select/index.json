@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "305",
+  "base_artist": "ASA",
+  "createdAt": "2025-12-02T09:59:25.674970Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "305 To My City",
+      "artist": "Drake feat. Detail",
+      "has_synced": true,
+      "path": "select/01_305_To_My_City_Drake_feat._Detail.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "305 To My City (Feat. Detail)",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/02_305_To_My_City_(Feat._Detail)_Drake.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "BULLETPROOF (feat. Jay 305)",
+      "artist": "YG feat. Jay 305",
+      "has_synced": true,
+      "path": "select/03_BULLETPROOF_(feat._Jay_305)_YG_feat._Jay_305.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bulletproof (Feat. Jay 305)",
+      "artist": "YG",
+      "has_synced": true,
+      "path": "select/04_Bulletproof_(Feat._Jay_305)_YG.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "She Wish She Was (feat. Joe Moses & Jay 305)",
+      "artist": "YG feat. Joe Moses & Jay 305",
+      "has_synced": true,
+      "path": "select/05_She_Wish_She_Was_(feat._Joe_Moses_&_Jay_305)_YG_feat._Joe_Moses_&_Jay_305.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "She Wish She Was (Feat. Joe Moses, Jay 305)",
+      "artist": "YG",
+      "has_synced": true,
+      "path": "select/06_She_Wish_She_Was_(Feat._Joe_Moses,_Jay_305)_YG.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ghetto Tales (feat. Jay 305 & TeeCee)",
+      "artist": "DJ Mustard",
+      "has_synced": true,
+      "path": "select/07_Ghetto_Tales_(feat._Jay_305_&_TeeCee)_DJ_Mustard.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Police (feat. Jay 305)",
+      "artist": "24hrs",
+      "has_synced": false,
+      "path": "select/08_Police_(feat._Jay_305)_24hrs.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bunkin' (feat. Jay 305 & T.I.)",
+      "artist": "Chris Brown feat. Tyga, Jay 305 & T.I.",
+      "has_synced": true,
+      "path": "select/09_Bunkin'_(feat._Jay_305_&_T.I.)_Chris_Brown_feat._Tyga,_Jay_305_&_T.I..lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "305 To My City",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/10_305_To_My_City_Drake.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "305 Anthem",
+      "artist": "Pitbull feat. Lil Jon",
+      "has_synced": true,
+      "path": "select/11_305_Anthem_Pitbull_feat._Lil_Jon.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "305 Anthem",
+      "artist": "Pitbull, Lil Jon",
+      "has_synced": true,
+      "path": "select/12_305_Anthem_Pitbull,_Lil_Jon.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Mr.305 - Outro",
+      "artist": "Pitbull",
+      "has_synced": true,
+      "path": "select/13_Mr.305_-_Outro_Pitbull.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "305",
+      "artist": "Shawn Mendes",
+      "has_synced": true,
+      "path": "select/14_305_Shawn_Mendes.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "305",
+      "artist": "Shawn Mendes",
+      "has_synced": true,
+      "path": "select/15_305_Shawn_Mendes.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Simple Minds-305-east at easter",
+      "artist": "Simple Minds",
+      "has_synced": false,
+      "path": "select/16_Simple_Minds-305-east_at_easter_Simple_Minds.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "305 to My City",
+      "artist": "Drake feat. Detail",
+      "has_synced": true,
+      "path": "select/17_305_to_My_City_Drake_feat._Detail.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "305 to My City",
+      "artist": "Drake; Detail",
+      "has_synced": true,
+      "path": "select/18_305_to_My_City_Drake;_Detail.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Bitch I'm Madonna (Oscar G 305 Dub)",
+      "artist": "Madonna feat. Nicki Minaj",
+      "has_synced": false,
+      "path": "select/19_Bitch_I'm_Madonna_(Oscar_G_305_Dub)_Madonna_feat._Nicki_Minaj.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "305",
+      "artist": "Shawn Mendes [MQA]",
+      "has_synced": true,
+      "path": "select/20_305_Shawn_Mendes_[MQA].lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "305",
+      "artist": "ASA",
+      "has_synced": false,
+      "path": "select/pl_01_305_ASA.txt"
+    }
+  ]
+}
